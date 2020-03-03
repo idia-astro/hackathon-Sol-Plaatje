@@ -1,5 +1,5 @@
 
-<p align="center"><img width=25% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/daralogo.png"></p>
+<p align="center"><img width=25% src="https://github.com/idia-astro/hackathon-Sol-Plaatje/blob/master/CHALLENGE-2/media/idia_square_logo.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
@@ -11,11 +11,9 @@
 
 
 ## Introduction
- Welcome to the [DARA Big Data](https://www.darabigdata.com) project hackathon at the Namibia University of Science and Technology! <img src="https://github.com/darabigdata/WindhoekHack/blob/master/media/Namibia_120-animated-flag-gifs.gif" width=5%>
 
-The DARA Big Data hackathon is designed to help you improve your data science skills in a friendly and supportive environment. At the hackathon, you will be grouped into **teams of four** and each team will work on completing the hack challenge. At the end of the hack each team will give a 5 minute (3 slide) presentation on the results of their challenge. These presentations will be judged by the organisers and there will be a prize for the winning team. The presentations will be judged on (1) the accuracy of the predicted results via machine learning and (2) visualisation/presentation of the data and results.
+Welcome to the [Ilifu](http://www.ilifu.ac.za/) - [IDIA](https://www.idia.ac.za/) Hack! This astronomy related project was created by [DARA Big Data](https://www.darabigdata.com).
 
-The DARA Big Data hack challenges will be run in Python3 using the [IDIA Cloud](idia.ac.za/research-and-projects/african-research-cloud). Students should have a basic working knowledge of Python (including the scipy and numpy libraries) - but you do not have to be an expert to take part and enjoy yourself!
 
 -----
 
@@ -39,8 +37,3 @@ Then make sure you have the right Python libraries for the tutorials. They can a
 ```
 
 
------
-
-### DARA Big Data is supported by:
-
-<p align="center"><img width=20% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/Newton-Fund-Master-rgb.jpg", hspace="20"><img width=40% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/stfc_logo.png", hspace="20"><img width=25% src="https://github.com/darabigdata/IDWBotswana/blob/master/media/dst_logo_crop.jpeg"><img width=30% src="https://github.com/darabigdata/WindhoekHack/blob/master/media/idia_logo.png"></p>

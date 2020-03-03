@@ -12,7 +12,6 @@
 
 Welcome to the [Ilifu](http://www.ilifu.ac.za/) - [IDIA](https://www.idia.ac.za/) Hack! This astronomy related project was created by [DARA Big Data](https://www.darabigdata.com).
 
------
 
 # Challenge 3: Find All the Dead Stars
 

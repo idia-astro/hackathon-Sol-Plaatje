@@ -10,9 +10,12 @@
 [![License](https://img.shields.io/cran/l/devtools.svg)](https://opensource.org/licenses/gpl-license)
 
 
-## Introduction
 Welcome to the [Ilifu](http://www.ilifu.ac.za/) - [IDIA](https://www.idia.ac.za/) Hack! This Agricutlure-related project was created by [DARA Big Data](https://www.darabigdata.com). 
 
+
+# Challenge 2: Estimate the amount of flood damage after a hurricane
+
+In this challenge you will use images from the Sentinel-1 satellite to identify flooded regions in Mozambique. There are three tutorials available in which you will learn about how to handle and process images, as well as how to use k-means clustering to develop a solution to the task at hand.
 
 
 -----

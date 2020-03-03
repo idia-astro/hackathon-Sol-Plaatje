@@ -11,11 +11,7 @@
 
 
 ## Introduction
-Welcome to the [Ilifu](http://www.ilifu.ac.za/) - [IDIA](https://www.idia.ac.za/) Hack! This Agricutlure-related project was created by [DARA Big Data](https://www.darabigdata.com).
-
-The hackathon is designed to help you improve your data science skills in a friendly and supportive environment. At the hackathon, you will be grouped into **teams of four** and each team will work independently on the hack challenge. At the end of the hack each team will give a 10 minute presentation on the results of their challenge. These presentations will be judged by the organisers and there will be a prize for the winning team. The presentations will be judged on (1) the accuracy of the predicted results via machine learning and (2) visualisation/presentation of the data and results.
-
-The hack will be run in Python3 using the [IDIA Cloud](idia.ac.za/research-and-projects/african-research-cloud). Students should have a basic working knowledge of Python (including the scipy and numpy libraries) - but you do not have to be an expert to take part and enjoy yourself!
+Welcome to the [Ilifu](http://www.ilifu.ac.za/) - [IDIA](https://www.idia.ac.za/) Hack! This Agricutlure-related project was created by [DARA Big Data](https://www.darabigdata.com). 
 
 
 

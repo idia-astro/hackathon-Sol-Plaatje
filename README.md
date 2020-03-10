@@ -1,4 +1,4 @@
-<p align="center"><img width=25% src="https://github.com/idia-astro/hackathon-Sol-Plaatje/blob/master/CHALLENGE-2/media/idia_square_logo.png"></p>
+<p align="center"><img width=35% src="https://github.com/idia-astro/hackathon-Sol-Plaatje/blob/master/CHALLENGE-2/media/pulsar.jpg"></p>
 
 Welcome to the [Ilifu](http://www.ilifu.ac.za/) - [IDIA](https://www.idia.ac.za/) Hack at Sol Plaatjie University! The hackathon is designed to help you improve your data science skills in a friendly and supportive environment. At the hackathon, you will be grouped into **teams of four** and each team will work independently on the hack challenge. At the end of the hack each team will give a 10 minute presentation on the results of their challenge. These presentations will be judged by the organisers and there will be a prize for the winning team. The presentations will be judged on (1) the accuracy of the predicted results via machine learning and (2) visualisation/presentation of the data and results.
 

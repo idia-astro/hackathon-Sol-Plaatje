@@ -15,7 +15,7 @@ Welcome to the [Ilifu](http://www.ilifu.ac.za/) - [IDIA](https://www.idia.ac.za/
 
 # Challenge 2: Estimate the amount of flood damage after a hurricane
 
-In this challenge you will use radar data provided by the European Space Agency [Sentinel](https://sentinel.esa.int/web/sentinel/missions) Mission to identify flooded regions in Mozambique. There are three tutorials available in which you will learn about how to handle and process images, as well as how to use k-means clustering to develop a solution to the task at hand.
+In this challenge you will use radar data provided by the European Space Agency [Sentinel](https://sentinel.esa.int/web/sentinel/missions) Mission to identify flooded regions in Puerto Rico and Mozambique. There are three tutorials available in which you will learn about how to handle and process images, as well as how to use k-means clustering to develop a solution to the task at hand.
 
 
 -----

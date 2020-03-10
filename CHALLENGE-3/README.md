@@ -1,5 +1,5 @@
 
-<p align="center"><img width=10% src="https://github.com/idia-astro/hackathon-Sol-Plaatje/blob/master/CHALLENGE-3/media/pulsar.jpg"></p>
+<p align="center"><img width=50% src="https://github.com/idia-astro/hackathon-Sol-Plaatje/blob/master/CHALLENGE-3/media/pulsar.jpg"></p>
 
 
 

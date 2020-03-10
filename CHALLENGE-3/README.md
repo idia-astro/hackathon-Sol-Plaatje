@@ -1,13 +1,7 @@
 
-<p align="center"><img width=25% src="https://github.com/idia-astro/hackathon-Sol-Plaatje/blob/master/CHALLENGE-2/media/idia_square_logo.png"></p>
+<p align="center"><img width=30% src="https://github.com/idia-astro/hackathon-Sol-Plaatje/blob/master/CHALLENGE-3/media/pulsar.jpg"></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![Build Status](https://travis-ci.org/darabigdata/WindhoekHack.svg?branch=master)](https://travis-ci.org/darabigdata/WindhoekHack)
-![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
-[![GitHub Issues](https://img.shields.io/github/issues/darabigdata/WindhoekHack.svg)](https://github.com/darabigdata/WindhoekHack/issues)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-[![License](https://img.shields.io/cran/l/devtools.svg)](https://opensource.org/licenses/gpl-license)
+
 
 
 Welcome to the [Ilifu](http://www.ilifu.ac.za/) - [IDIA](https://www.idia.ac.za/) Hack! This astronomy related project was created by [DARA Big Data](https://www.darabigdata.com).

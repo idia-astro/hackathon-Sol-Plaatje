@@ -1,5 +1,5 @@
 
-<p align="center"><img width=25% src="https://github.com/idia-astro/hackathon-Sol-Plaatje/blob/master/CHALLENGE-2/media/hurricane.jpg"></p>
+<p align="center"><img width=35% src="https://github.com/idia-astro/hackathon-Sol-Plaatje/blob/master/CHALLENGE-2/media/hurricane.jpg"></p>
 
 
 

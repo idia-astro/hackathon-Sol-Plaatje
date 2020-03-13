@@ -6,6 +6,6 @@ In this hack you will work on one of three projects: (i) CHALLENGE-1 - Build a m
 
 All projects were created by [DARA Big Data](https://www.darabigdata.com).
 
-The hack will be run in Python3 using the [IDIA Cloud](idia.ac.za/research-and-projects/african-research-cloud). Students should have a basic working knowledge of Python (including the scipy and numpy libraries) - but you do not have to be an expert to take part and enjoy yourself!
+The hack will be run in Python3 using the [IDIA Cloud](https://www.idia.ac.za/the-birth-of-the-research-cloud-in-south-africa/#). Students should have a basic working knowledge of Python (including the scipy and numpy libraries) - but you do not have to be an expert to take part and enjoy yourself!
 
 

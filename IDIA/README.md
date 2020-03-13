@@ -5,14 +5,14 @@
 If you want to install a python library (for example the pandas library) you will need to do a local install. You can do this on the command line in the terminal using
 
 ```python
-pip install —user pandas
+pip install --user pandas
 ```
 
 or directly in your Jupyter notebook using
 
 ```python
 import sys
-! {sys.executable} -m pip install —user pandas
+! {sys.executable} -m pip install --user pandas
 ```
 
 Local libraries are installed in /home/USERNAME/.local/lib/python3.6/site-packages/ so you will need to add this to your system path. In a notebook cell type:
@@ -42,11 +42,6 @@ export PYTHONPATH="/opt/workshop/lib/python3.6/site-packages/:/home/USERNAME/.lo
 ### ...upload something to the IDIA cloud?
 
 Either grab it from github or use the upload button on the top left of the user interface <img src="https://github.com/darabigdata/IDWBotswana/blob/master/media/upload.png" width=5%>
-
-
-### ...write my presentation slides?
-
-[link removed]()
 
 
 ### ...copy all my work off the IDIA cloud to github?
